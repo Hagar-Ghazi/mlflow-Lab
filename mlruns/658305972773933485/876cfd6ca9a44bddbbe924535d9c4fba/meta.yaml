@@ -1,0 +1,15 @@
+artifact_uri: file:D:/projects_iti/mlflow_session/mlruns/658305972773933485/876cfd6ca9a44bddbbe924535d9c4fba/artifacts
+deleted_time: 1770479203658
+end_time: 1770476503260
+entry_point_name: ''
+experiment_id: '658305972773933485'
+lifecycle_stage: deleted
+run_id: 876cfd6ca9a44bddbbe924535d9c4fba
+run_name: dashing-turtle-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770476498772
+status: 3
+tags: []
+user_id: WellCome

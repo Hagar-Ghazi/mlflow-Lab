@@ -1,0 +1,19 @@
+creation_timestamp: 1770480751102
+current_stage: None
+deployment_job_state: null
+description: "Version 1 of the bank consumer churn prediction model using a Random
+  Forest Classifier. \nThis version includes tuned hyperparameters (n_estimators =
+  100, max_depth = 10) and was trained on a balanced dataset using downsampling. \nIt
+  achieved a balanced trade-off between precision and recall, making it suitable for
+  identifying high-risk customers."
+last_updated_timestamp: 1770481808059
+model_id: m-57b0eb50b38b4217a342628214ebb88c
+name: Random_Forest_ChurnData
+run_id: ebc830b1de994925bad837efa7c1b508
+run_link: ''
+source: models:/m-57b0eb50b38b4217a342628214ebb88c
+status: READY
+status_message: null
+storage_location: file:D:/projects_iti/mlflow_session/mlruns/547418097006769265/models/m-57b0eb50b38b4217a342628214ebb88c/artifacts
+user_id: null
+version: 1

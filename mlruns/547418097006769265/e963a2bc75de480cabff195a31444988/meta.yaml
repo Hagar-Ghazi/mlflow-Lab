@@ -1,0 +1,14 @@
+artifact_uri: file:D:/projects_iti/mlflow_session/mlruns/547418097006769265/e963a2bc75de480cabff195a31444988/artifacts
+end_time: 1770480380496
+entry_point_name: ''
+experiment_id: '547418097006769265'
+lifecycle_stage: active
+run_id: e963a2bc75de480cabff195a31444988
+run_name: SVM_RBF_Kernel
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770480375301
+status: 3
+tags: []
+user_id: WellCome

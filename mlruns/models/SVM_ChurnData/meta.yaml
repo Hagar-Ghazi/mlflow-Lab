@@ -1,0 +1,12 @@
+aliases:
+  staging: '1'
+creation_timestamp: 1770481159376
+deployment_job_id: null
+deployment_job_state: null
+description: "Version 1 of the bank consumer churn prediction model using a Support
+  Vector Machine (SVM) with an RBF kernel. \nThis model was selected to capture non-linear
+  relationships between features like Age, Balance, and Credit Score. \nIt includes
+  probability estimation to allow for flexible thresholding during churn risk assessment.
+  Performance metrics were calculated on a balanced test set."
+last_updated_timestamp: 1770482713390
+name: SVM_ChurnData

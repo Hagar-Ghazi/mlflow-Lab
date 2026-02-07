@@ -1,0 +1,10 @@
+artifact_location: file:D:/projects_iti/mlflow_session/mlruns/547418097006769265/models/m-57b0eb50b38b4217a342628214ebb88c/artifacts
+creation_timestamp: 1770480371150
+experiment_id: '547418097006769265'
+last_updated_timestamp: 1770480375075
+model_id: m-57b0eb50b38b4217a342628214ebb88c
+model_type: null
+name: model
+source_run_id: ebc830b1de994925bad837efa7c1b508
+status: 2
+status_message: null

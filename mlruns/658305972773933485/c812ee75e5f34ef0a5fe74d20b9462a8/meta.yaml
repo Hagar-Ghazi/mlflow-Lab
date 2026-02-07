@@ -1,0 +1,15 @@
+artifact_uri: file:D:/projects_iti/mlflow_session/mlruns/658305972773933485/c812ee75e5f34ef0a5fe74d20b9462a8/artifacts
+deleted_time: 1770476554594
+end_time: 1770476383709
+entry_point_name: ''
+experiment_id: '658305972773933485'
+lifecycle_stage: deleted
+run_id: c812ee75e5f34ef0a5fe74d20b9462a8
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770476383657
+status: 4
+tags: []
+user_id: WellCome

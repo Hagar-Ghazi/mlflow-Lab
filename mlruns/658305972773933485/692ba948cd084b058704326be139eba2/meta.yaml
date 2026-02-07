@@ -1,0 +1,15 @@
+artifact_uri: file:D:/projects_iti/mlflow_session/mlruns/658305972773933485/692ba948cd084b058704326be139eba2/artifacts
+deleted_time: 1770479881977
+end_time: 1770479810364
+entry_point_name: ''
+experiment_id: '658305972773933485'
+lifecycle_stage: deleted
+run_id: 692ba948cd084b058704326be139eba2
+run_name: adaptable-sloth-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770479806704
+status: 3
+tags: []
+user_id: WellCome
